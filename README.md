@@ -1,3 +1,4 @@
 # tela-gym-app
 
-Está na branch master, react native
+Está na branch master
+#react_native
